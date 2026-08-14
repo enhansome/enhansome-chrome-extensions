@@ -1,0 +1,422 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Refined GitHub",
+          "description": "Simplifies the GitHub interface and adds useful features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:19:08Z",
+            "owner": "refined-github",
+            "repo": "refined-github",
+            "stars": 31926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octotree",
+          "description": "Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-06T17:52:26Z",
+            "owner": "ovity",
+            "repo": "octotree",
+            "stars": 23228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux Devtools",
+          "description": "Adds debugging for Redux to Chrome Dev tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-07T11:04:59Z",
+            "owner": "zalmoxisus",
+            "repo": "redux-devtools-extension",
+            "stars": 13457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisBug",
+          "description": "Make any webpage feel like an artboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T01:35:42Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "ProjectVisBug",
+            "stars": 5766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON formatter",
+          "description": "Makes JSON/JSONP easy to read.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-26T16:33:51Z",
+            "owner": "callumlocke",
+            "repo": "json-formatter",
+            "stars": 4128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrome Dev Tools Dark Theme",
+          "description": "Simply adds night theme to Chrome dev tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-11T19:58:53Z",
+            "owner": "mauricecruz",
+            "repo": "chrome-devtools-zerodarkmatrix-theme",
+            "stars": 1994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Autocomplete For Github",
+          "description": "Adds autocomplete for GitHub's search bar.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-02-25T14:46:18Z",
+            "owner": "algolia",
+            "repo": "github-awesome-autocomplete",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lovely forks",
+          "description": "Show notable forks of GitHub repositories under their names.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T14:18:58Z",
+            "owner": "musically-ut",
+            "repo": "lovely-forks",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PR Monitor",
+          "description": "Browser extension to keep track of incoming and outgoing PRs. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-03-29T03:40:37Z",
+            "owner": "fwouts",
+            "repo": "prmonitor",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What's New on GitHub",
+          "description": "Helps you see easily what happened on GitHub since your last visit.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-08-08T17:06:23Z",
+            "owner": "hormesiel",
+            "repo": "whats-new-github",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Developer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Buster",
+          "description": "Captcha solver extension for humans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T11:49:18Z",
+            "owner": "dessant",
+            "repo": "buster",
+            "stars": 9256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Violentmonkey",
+          "description": "Provides userscripts support for browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T13:41:54Z",
+            "owner": "violentmonkey",
+            "repo": "violentmonkey",
+            "stars": 8734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stylus",
+          "description": "Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T18:35:59Z",
+            "owner": "openstyles",
+            "repo": "stylus",
+            "stars": 6820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Surfingkeys",
+          "description": "Map your keys for web surfing, expand your browser with javascript and keyboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T12:07:02Z",
+            "owner": "brookhong",
+            "repo": "Surfingkeys",
+            "stars": 6142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uMatrix",
+          "description": "Point and click matrix to filter net requests according to source, destination and type.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-07-20T17:57:55Z",
+            "owner": "gorhill",
+            "repo": "uMatrix",
+            "stars": 4688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reddit Enhacement Suite",
+          "description": "Includes many features that enhances your Reddit browsing experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T04:23:45Z",
+            "owner": "honestbleeps",
+            "repo": "Reddit-Enhancement-Suite",
+            "stars": 4501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Speed Controller",
+          "description": "HTML5 video speed controller.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T16:35:03Z",
+            "owner": "igrigorik",
+            "repo": "videospeed",
+            "stars": 4407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search by Image",
+          "description": "Browser extension for reverse image search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T11:49:36Z",
+            "owner": "dessant",
+            "repo": "search-by-image",
+            "stars": 3712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redirector",
+          "description": "Automatically redirect pages based on user-defined rules. Examples here and here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-27T19:04:51Z",
+            "owner": "einaregilsson",
+            "repo": "Redirector",
+            "stars": 2073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cookie AutoDelete",
+          "description": "Extension that deletes cookies as soon as the tab closes. Documentation and FAQ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-26T09:54:25Z",
+            "owner": "Cookie-AutoDelete",
+            "repo": "Cookie-AutoDelete",
+            "stars": 2011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Archives",
+          "description": "Browser extension for viewing archived and cached versions of web pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T14:03:55Z",
+            "owner": "dessant",
+            "repo": "web-archives",
+            "stars": 1582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decentraleyes",
+          "description": "Improves privacy by intercepting requests to large third-party CDNs (more info).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-02-23T14:26:58Z",
+            "owner": "Synzvato",
+            "repo": "decentraleyes",
+            "stars": 1465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeePass Tusk",
+          "description": "KeePass-compatible browser extension for filling passwords.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:16:18Z",
+            "owner": "subdavis",
+            "repo": "Tusk",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NooBoss",
+          "description": "Powerful Extensions Manager and Userscript Manager with many unique features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-10T02:09:02Z",
+            "owner": "AInoob",
+            "repo": "NooBoss",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleLogin",
+          "description": "Protect your email address using email alias. 100% open source and can be self-hosted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-03-20T15:13:26Z",
+            "owner": "simple-login",
+            "repo": "browser-extension",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TabMerger",
+          "description": "Merges your tabs into one location to save memory usage and increase your productivity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-03T06:05:17Z",
+            "owner": "lbragile",
+            "repo": "TabMerger",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart HTTPS",
+          "description": "Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T08:12:40Z",
+            "owner": "ilGur1132",
+            "repo": "smart-https",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pinboard Pro",
+          "description": "Google Chrome extension for Pinboard.in.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2020-12-13T17:31:58Z",
+            "owner": "richardkall",
+            "repo": "pinboard-pro-chrome-extension",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bypass Paywalls",
+          "description": "Most comprehensive paywall bypasser on the internet. Bypass paywall of many news sites.",
+          "children": []
+        }
+      ],
+      "title": "General"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:52:21.437Z",
+    "original_repository": "linsa-io/chrome-extensions",
+    "original_repository_sha": "f67b189cc7a1cf169890492e802d343c40ee2d4e",
+    "enhanced_repository": "enhansome/enhansome-chrome-extensions",
+    "enhanced_repository_description": null,
+    "title": "Awesome Chrome extensions with stars"
+  }
+}
