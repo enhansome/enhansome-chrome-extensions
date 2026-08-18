@@ -4,7 +4,7 @@
 
 ## Developer
 
-* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 31,938 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-15 - Simplifies the GitHub interface and adds useful features.
+* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 31,943 | 🐛 76 | 🌐 TypeScript | 📅 2026-08-15 - Simplifies the GitHub interface and adds useful features.
 * [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,232 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,457 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) ⭐ 5,766 | 🐛 245 | 🌐 JavaScript | 📅 2026-08-03 - Make any webpage feel like an artboard.
@@ -31,21 +31,21 @@
 
 ## General
 
-* [Buster](https://github.com/dessant/buster) ⭐ 9,260 | 🐛 49 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans.
-* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 8,742 | 🐛 80 | 🌐 JavaScript | 📅 2026-08-17 - Provides userscripts support for browsers.
-* [Stylus](https://github.com/openstyles/stylus/) ⭐ 6,825 | 🐛 93 | 🌐 JavaScript | 📅 2026-08-14 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
+* [Buster](https://github.com/dessant/buster) ⭐ 9,262 | 🐛 49 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans.
+* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 8,743 | 🐛 80 | 🌐 JavaScript | 📅 2026-08-17 - Provides userscripts support for browsers.
+* [Stylus](https://github.com/openstyles/stylus/) ⭐ 6,826 | 🐛 93 | 🌐 JavaScript | 📅 2026-08-14 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
 * [Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,146 | 🐛 446 | 🌐 JavaScript | 📅 2026-08-15 - Map your keys for web surfing, expand your browser with javascript and keyboard.
 * [uMatrix](https://github.com/gorhill/uMatrix) ⚠️ Archived - Point and click matrix to filter net requests according to source, destination and type.
-* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,502 | 🐛 685 | 🌐 JavaScript | 📅 2026-08-12 - Includes many features that enhances your Reddit browsing experience.
-* [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,408 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-15 - HTML5 video speed controller.
+* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,502 | 🐛 686 | 🌐 JavaScript | 📅 2026-08-17 - Includes many features that enhances your Reddit browsing experience.
+* [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,408 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-17 - HTML5 video speed controller.
 * [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,716 | 🐛 78 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
-* [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,073 | 🐛 177 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,073 | 🐛 177 | 🌐 JavaScript | 📅 2025-07-27.
+* [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,075 | 🐛 177 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,075 | 🐛 177 | 🌐 JavaScript | 📅 2025-07-27.
 * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) ⭐ 2,013 | 🐛 172 | 🌐 TypeScript | 📅 2025-12-26 - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) ⭐ 2,013 | 🐛 172 | 🌐 TypeScript | 📅 2025-12-26 and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues) ⭐ 2,013 | 🐛 172 | 🌐 TypeScript | 📅 2025-12-26.
 * [Web Archives](https://github.com/dessant/web-archives) ⭐ 1,586 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for viewing archived and cached versions of web pages.
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes) ⚠️ Archived - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction) ⚠️ Archived).
 * [KeePass Tusk](https://github.com/suBDavis/Tusk) ⭐ 522 | 🐛 69 | 🌐 JavaScript | 📅 2026-08-12 - KeePass-compatible browser extension for filling passwords.
 * [NooBoss](https://github.com/AInoob/NooBoss) ⭐ 329 | 🐛 44 | 🌐 JavaScript | 📅 2025-01-10 - Powerful Extensions Manager and Userscript Manager with many unique features.
-* [SimpleLogin](https://github.com/simple-login/browser-extension) ⭐ 241 | 🐛 45 | 🌐 Vue | 📅 2025-03-20 - Protect your email address using email alias. 100% open source and can be self-hosted.
+* [SimpleLogin](https://github.com/simple-login/browser-extension) ⭐ 242 | 🐛 45 | 🌐 Vue | 📅 2025-03-20 - Protect your email address using email alias. 100% open source and can be self-hosted.
 * [TabMerger](https://github.com/lbragile/TabMerger) ⭐ 186 | 🐛 11 | 🌐 TypeScript | 📅 2023-08-03 - Merges your tabs into one location to save memory usage and increase your productivity.
 * [Smart HTTPS](https://github.com/ilGur1132/Smart-HTTPS) ⭐ 86 | 🐛 27 | 🌐 JavaScript | 📅 2026-01-26 - Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.
 * [Pinboard Pro](https://github.com/richardkall/pinboard-pro-chrome-extension) ⚠️ Archived - Google Chrome extension for Pinboard.in.
@@ -95,4 +95,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

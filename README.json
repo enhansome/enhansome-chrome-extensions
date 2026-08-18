@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T04:51:35Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31938
+            "stars": 31943
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-06-27T11:49:18Z",
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9260
+            "stars": 9262
           }
         },
         {
@@ -171,10 +171,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T01:32:56Z",
+            "last_commit": "2026-08-17T12:20:24Z",
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8742
+            "stars": 8743
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-14T05:07:58Z",
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6825
+            "stars": 6826
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2021-07-20T17:57:55Z",
             "owner": "gorhill",
             "repo": "uMatrix",
-            "stars": 4688
+            "stars": 4687
           }
         },
         {
@@ -227,7 +227,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T04:23:45Z",
+            "last_commit": "2026-08-17T18:32:44Z",
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
             "stars": 4502
@@ -241,7 +241,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T05:50:19Z",
+            "last_commit": "2026-08-17T18:17:52Z",
             "owner": "igrigorik",
             "repo": "videospeed",
             "stars": 4408
@@ -272,7 +272,7 @@
             "last_commit": "2025-07-27T19:04:51Z",
             "owner": "einaregilsson",
             "repo": "Redirector",
-            "stars": 2073
+            "stars": 2075
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2025-03-20T15:13:26Z",
             "owner": "simple-login",
             "repo": "browser-extension",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:47:58.079Z",
+    "last_updated": "2026-08-18T02:43:59.442Z",
     "original_repository": "linsa-io/chrome-extensions",
     "original_repository_sha": "f67b189cc7a1cf169890492e802d343c40ee2d4e",
     "enhanced_repository": "enhansome/enhansome-chrome-extensions",
