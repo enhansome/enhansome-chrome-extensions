@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51769689,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T04:51:35Z",
+            "last_commit": "2026-08-19T11:14:12Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31948
+            "stars": 31952
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19620844,
             "language": "JavaScript",
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23232
+            "stars": 23231
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44869078,
             "language": "JavaScript",
             "last_commit": "2023-11-07T11:04:59Z",
             "owner": "zalmoxisus",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137987910,
             "language": "JavaScript",
             "last_commit": "2026-08-03T01:35:42Z",
             "owner": "GoogleChromeLabs",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5304488,
             "language": "TypeScript",
             "last_commit": "2026-02-26T16:33:51Z",
             "owner": "callumlocke",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9555602,
             "language": "JavaScript",
             "last_commit": "2018-12-11T19:58:53Z",
             "owner": "mauricecruz",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28206168,
             "language": "JavaScript",
             "last_commit": "2019-02-25T14:46:18Z",
             "owner": "algolia",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37826756,
             "language": "JavaScript",
             "last_commit": "2026-06-22T14:18:58Z",
             "owner": "musically-ut",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 137981763,
             "language": "TypeScript",
             "last_commit": "2026-03-29T03:40:37Z",
             "owner": "fwouts",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 148616867,
             "language": "JavaScript",
             "last_commit": "2024-08-08T17:06:23Z",
             "owner": "hormesiel",
@@ -147,7 +157,7 @@
       "title": "Developer"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158064011,
             "language": "JavaScript",
             "last_commit": "2026-06-27T11:49:18Z",
             "owner": "dessant",
@@ -170,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12558645,
             "language": "JavaScript",
             "last_commit": "2026-08-17T12:20:24Z",
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8749
+            "stars": 8752
           }
         },
         {
@@ -184,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78330996,
             "language": "JavaScript",
             "last_commit": "2026-08-18T21:24:32Z",
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6828
+            "stars": 6829
           }
         },
         {
@@ -198,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41906632,
             "language": "JavaScript",
             "last_commit": "2026-08-15T02:56:13Z",
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6148
+            "stars": 6149
           }
         },
         {
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25272170,
             "language": "JavaScript",
             "last_commit": "2021-07-20T17:57:55Z",
             "owner": "gorhill",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2688907,
             "language": "JavaScript",
             "last_commit": "2026-08-17T18:32:44Z",
             "owner": "honestbleeps",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17349273,
             "language": "JavaScript",
             "last_commit": "2026-08-17T18:17:52Z",
             "owner": "igrigorik",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94629944,
             "language": "JavaScript",
             "last_commit": "2026-06-27T11:49:36Z",
             "owner": "dessant",
@@ -268,11 +286,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1620438,
             "language": "JavaScript",
             "last_commit": "2025-07-27T19:04:51Z",
             "owner": "einaregilsson",
             "repo": "Redirector",
-            "stars": 2077
+            "stars": 2078
           }
         },
         {
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78816383,
             "language": "TypeScript",
             "last_commit": "2025-12-26T09:54:25Z",
             "owner": "Cookie-AutoDelete",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99110692,
             "language": "JavaScript",
             "last_commit": "2026-06-27T14:03:55Z",
             "owner": "dessant",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46812728,
             "language": "JavaScript",
             "last_commit": "2019-02-23T14:26:58Z",
             "owner": "Synzvato",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77945376,
             "language": "JavaScript",
             "last_commit": "2026-08-12T02:16:18Z",
             "owner": "subdavis",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74539327,
             "language": "JavaScript",
             "last_commit": "2025-01-10T02:09:02Z",
             "owner": "AInoob",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227470137,
             "language": "Vue",
             "last_commit": "2025-03-20T15:13:26Z",
             "owner": "simple-login",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307575034,
             "language": "TypeScript",
             "last_commit": "2023-08-03T06:05:17Z",
             "owner": "lbragile",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80419869,
             "language": "JavaScript",
             "last_commit": "2026-01-26T08:12:40Z",
             "owner": "ilGur1132",
@@ -394,26 +421,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 39453547,
             "language": "HTML",
             "last_commit": "2020-12-13T17:31:58Z",
             "owner": "richardkall",
             "repo": "pinboard-pro-chrome-extension",
             "stars": 47
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Bypass Paywalls",
-          "description": "Most comprehensive paywall bypasser on the internet. Bypass paywall of many news sites.",
-          "children": []
         }
       ],
       "title": "General"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:45:14.512Z",
+    "last_updated": "2026-08-19T12:20:23.781Z",
     "original_repository": "linsa-io/chrome-extensions",
+    "original_repository_id": 104637842,
     "original_repository_sha": "f67b189cc7a1cf169890492e802d343c40ee2d4e",
     "enhanced_repository": "enhansome/enhansome-chrome-extensions",
     "enhanced_repository_description": null,
