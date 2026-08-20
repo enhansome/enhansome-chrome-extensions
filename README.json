@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T11:14:12Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31952
+            "stars": 31957
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23231
+            "stars": 23232
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-11-07T11:04:59Z",
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13456
+            "stars": 13455
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-03T01:35:42Z",
             "owner": "GoogleChromeLabs",
             "repo": "ProjectVisBug",
-            "stars": 5766
+            "stars": 5767
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-02-26T16:33:51Z",
             "owner": "callumlocke",
             "repo": "json-formatter",
-            "stars": 4131
+            "stars": 4132
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 12558645,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T12:20:24Z",
+            "last_commit": "2026-08-19T20:41:54Z",
             "owner": "violentmonkey",
             "repo": "violentmonkey",
             "stars": 8752
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 78330996,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T21:24:32Z",
+            "last_commit": "2026-08-19T19:29:31Z",
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6829
+            "stars": 6832
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-15T02:56:13Z",
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6149
+            "stars": 6150
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-17T18:17:52Z",
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4407
+            "stars": 4406
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-06-27T11:49:36Z",
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3717
+            "stars": 3720
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2025-07-27T19:04:51Z",
             "owner": "einaregilsson",
             "repo": "Redirector",
-            "stars": 2078
+            "stars": 2080
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2019-02-23T14:26:58Z",
             "owner": "Synzvato",
             "repo": "decentraleyes",
-            "stars": 1465
+            "stars": 1464
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:20:23.781Z",
+    "last_updated": "2026-08-20T02:45:26.394Z",
     "original_repository": "linsa-io/chrome-extensions",
     "original_repository_id": 104637842,
     "original_repository_sha": "f67b189cc7a1cf169890492e802d343c40ee2d4e",
