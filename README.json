@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T11:14:12Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31957
+            "stars": 31962
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-27T11:49:18Z",
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9261
+            "stars": 9262
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 12558645,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T20:41:54Z",
+            "last_commit": "2026-08-20T23:33:01Z",
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8752
+            "stars": 8755
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-19T19:29:31Z",
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6832
+            "stars": 6835
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-15T02:56:13Z",
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6150
+            "stars": 6148
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-17T18:32:44Z",
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4502
+            "stars": 4503
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-17T18:17:52Z",
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4406
+            "stars": 4407
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-06-27T11:49:36Z",
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3720
+            "stars": 3718
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-06-27T14:03:55Z",
             "owner": "dessant",
             "repo": "web-archives",
-            "stars": 1586
+            "stars": 1584
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:45:26.394Z",
+    "last_updated": "2026-08-21T02:51:45.704Z",
     "original_repository": "linsa-io/chrome-extensions",
     "original_repository_id": 104637842,
     "original_repository_sha": "f67b189cc7a1cf169890492e802d343c40ee2d4e",
