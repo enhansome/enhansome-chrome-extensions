@@ -12,10 +12,10 @@
             "archived": false,
             "id": 51769689,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T12:30:26Z",
+            "last_commit": "2026-08-24T11:22:52Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31974
+            "stars": 31978
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-27T11:49:18Z",
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9268
+            "stars": 9270
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 12558645,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T02:23:12Z",
+            "last_commit": "2026-08-24T04:08:07Z",
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8768
+            "stars": 8769
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-21T23:59:25Z",
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6152
+            "stars": 6153
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-17T18:32:44Z",
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4506
+            "stars": 4507
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-06-27T11:49:36Z",
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3721
+            "stars": 3720
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-06-27T14:03:55Z",
             "owner": "dessant",
             "repo": "web-archives",
-            "stars": 1586
+            "stars": 1585
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:52:11.083Z",
+    "last_updated": "2026-08-24T14:23:16.904Z",
     "original_repository": "linsa-io/chrome-extensions",
     "original_repository_id": 104637842,
     "original_repository_sha": "f67b189cc7a1cf169890492e802d343c40ee2d4e",
