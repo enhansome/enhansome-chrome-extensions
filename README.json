@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T11:22:52Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31978
+            "stars": 31981
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23234
+            "stars": 23235
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-24T04:08:07Z",
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8769
+            "stars": 8774
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-21T23:59:25Z",
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6153
+            "stars": 6154
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2021-07-20T17:57:55Z",
             "owner": "gorhill",
             "repo": "uMatrix",
-            "stars": 4687
+            "stars": 4686
           }
         },
         {
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 17349273,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T18:17:52Z",
+            "last_commit": "2026-08-24T16:03:27Z",
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4412
+            "stars": 4414
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:16.904Z",
+    "last_updated": "2026-08-25T02:46:52.503Z",
     "original_repository": "linsa-io/chrome-extensions",
     "original_repository_id": 104637842,
     "original_repository_sha": "f67b189cc7a1cf169890492e802d343c40ee2d4e",
