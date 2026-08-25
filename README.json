@@ -171,7 +171,7 @@
             "last_commit": "2026-06-27T11:49:18Z",
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9270
+            "stars": 9269
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-22T17:34:33Z",
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6841
+            "stars": 6843
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-24T16:03:27Z",
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4414
+            "stars": 4416
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-06-27T11:49:36Z",
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3720
+            "stars": 3721
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:46:52.503Z",
+    "last_updated": "2026-08-25T06:15:08.165Z",
     "original_repository": "linsa-io/chrome-extensions",
     "original_repository_id": 104637842,
     "original_repository_sha": "f67b189cc7a1cf169890492e802d343c40ee2d4e",

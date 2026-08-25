@@ -31,14 +31,14 @@
 
 ## General
 
-* [Buster](https://github.com/dessant/buster) ⭐ 9,270 | 🐛 49 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans.
+* [Buster](https://github.com/dessant/buster) ⭐ 9,269 | 🐛 49 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans.
 * [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 8,774 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-24 - Provides userscripts support for browsers.
-* [Stylus](https://github.com/openstyles/stylus/) ⭐ 6,841 | 🐛 95 | 🌐 JavaScript | 📅 2026-08-22 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
+* [Stylus](https://github.com/openstyles/stylus/) ⭐ 6,843 | 🐛 94 | 🌐 JavaScript | 📅 2026-08-22 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
 * [Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,154 | 🐛 449 | 🌐 JavaScript | 📅 2026-08-21 - Map your keys for web surfing, expand your browser with javascript and keyboard.
 * [uMatrix](https://github.com/gorhill/uMatrix) ⚠️ Archived - Point and click matrix to filter net requests according to source, destination and type.
 * [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,507 | 🐛 686 | 🌐 JavaScript | 📅 2026-08-17 - Includes many features that enhances your Reddit browsing experience.
-* [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,414 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-24 - HTML5 video speed controller.
-* [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,720 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
+* [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,416 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-24 - HTML5 video speed controller.
+* [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,721 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
 * [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,081 | 🐛 177 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,081 | 🐛 177 | 🌐 JavaScript | 📅 2025-07-27.
 * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) ⭐ 2,014 | 🐛 172 | 🌐 TypeScript | 📅 2025-12-26 - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) ⭐ 2,014 | 🐛 172 | 🌐 TypeScript | 📅 2025-12-26 and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues) ⭐ 2,014 | 🐛 172 | 🌐 TypeScript | 📅 2025-12-26.
 * [Web Archives](https://github.com/dessant/web-archives) ⭐ 1,585 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for viewing archived and cached versions of web pages.
