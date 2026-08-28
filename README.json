@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T08:02:58Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31996
-          }
+            "stars": 32000
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23238
-          }
+            "stars": 23240
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2023-11-07T11:04:59Z",
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13454
-          }
+            "stars": 13453
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "GoogleChromeLabs",
             "repo": "ProjectVisBug",
             "stars": 5769
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "callumlocke",
             "repo": "json-formatter",
             "stars": 4128
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mauricecruz",
             "repo": "chrome-devtools-zerodarkmatrix-theme",
             "stars": 1994
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
             "stars": 1071
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "musically-ut",
             "repo": "lovely-forks",
             "stars": 670
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "fwouts",
             "repo": "prmonitor",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "hormesiel",
             "repo": "whats-new-github",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         }
       ],
       "title": "Developer"
@@ -171,8 +181,9 @@
             "last_commit": "2026-06-27T11:49:18Z",
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9277
-          }
+            "stars": 9278
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -186,8 +197,9 @@
             "last_commit": "2026-08-24T04:08:07Z",
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8787
-          }
+            "stars": 8789
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -201,8 +213,9 @@
             "last_commit": "2026-08-26T16:49:13Z",
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6849
-          }
+            "stars": 6850
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "brookhong",
             "repo": "Surfingkeys",
             "stars": 6157
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "gorhill",
             "repo": "uMatrix",
             "stars": 4687
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
             "stars": 4507
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -261,8 +277,9 @@
             "last_commit": "2026-08-24T16:03:27Z",
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4419
-          }
+            "stars": 4417
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2026-06-27T11:49:36Z",
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3724
-          }
+            "stars": 3726
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "einaregilsson",
             "repo": "Redirector",
             "stars": 2081
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "Cookie-AutoDelete",
             "repo": "Cookie-AutoDelete",
             "stars": 2014
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "dessant",
             "repo": "web-archives",
             "stars": 1585
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "Synzvato",
             "repo": "decentraleyes",
             "stars": 1464
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "subdavis",
             "repo": "Tusk",
             "stars": 523
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "AInoob",
             "repo": "NooBoss",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "simple-login",
             "repo": "browser-extension",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "lbragile",
             "repo": "TabMerger",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "ilGur1132",
             "repo": "smart-https",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         },
         {
           "node_type": "item",
@@ -427,14 +454,15 @@
             "owner": "richardkall",
             "repo": "pinboard-pro-chrome-extension",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T13:24:22.604Z"
         }
       ],
       "title": "General"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:50.690Z",
+    "last_updated": "2026-08-28T13:24:22.604Z",
     "original_repository_info": {
       "archived": false,
       "id": 104637842,
