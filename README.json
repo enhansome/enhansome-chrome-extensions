@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+            "homepage": null,
             "id": 51769689,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T08:02:58Z",
+            "open_issues": 76,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32000
+            "stars": 32002,
+            "topics": [
+              "browser-extension",
+              "chrome-extension",
+              "firefox-addon",
+              "github",
+              "github-extension",
+              "safari-extension",
+              "userstyle"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -26,12 +39,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub on steroids",
+            "homepage": "https://www.octotree.io/",
             "id": 19620844,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-06-06T17:52:26Z",
+            "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23240
+            "stars": 23240,
+            "topics": [
+              "browser-extension",
+              "chrome",
+              "code-files",
+              "code-review",
+              "edge",
+              "firefox",
+              "github",
+              "opera",
+              "pull-request-review",
+              "safari"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -42,12 +71,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redux DevTools extension.",
+            "homepage": null,
             "id": 44869078,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-07T11:04:59Z",
+            "open_issues": 265,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13453
+            "stars": 13453,
+            "topics": [
+              "debug",
+              "devtools",
+              "extension",
+              "javascript",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -58,12 +98,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug",
+            "homepage": "https://visbug.web.app",
             "id": 137987910,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T01:35:42Z",
+            "open_issues": 246,
             "owner": "GoogleChromeLabs",
             "repo": "ProjectVisBug",
-            "stars": 5769
+            "stars": 5769,
+            "topics": [
+              "debugging-tool",
+              "design-tools",
+              "extension",
+              "inspector",
+              "toolkit",
+              "wsiwyg"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -74,12 +126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Makes JSON easy to read.",
+            "homepage": null,
             "id": 5304488,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-26T16:33:51Z",
+            "open_issues": 0,
             "owner": "callumlocke",
             "repo": "json-formatter",
-            "stars": 4128
+            "stars": 4128,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -90,12 +147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A highly customized dark theme for Chrome",
+            "homepage": null,
             "id": 9555602,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-11T19:58:53Z",
+            "open_issues": 7,
             "owner": "mauricecruz",
             "repo": "chrome-devtools-zerodarkmatrix-theme",
-            "stars": 1994
+            "stars": 1994,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -106,12 +168,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":octocat: Add instant search capabilities to GitHub's search bar",
+            "homepage": "https://github.algolia.com",
             "id": 28206168,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-02-25T14:46:18Z",
+            "open_issues": 18,
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
-            "stars": 1071
+            "stars": 1070,
+            "topics": [
+              "algolia",
+              "chrome",
+              "firefox",
+              "github",
+              "search",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -122,12 +196,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💚 🍴 Show notable forks of GitHub repositories under their names.",
+            "homepage": null,
             "id": 37826756,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-06-22T14:18:58Z",
+            "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 670
+            "stars": 670,
+            "topics": [
+              "addon",
+              "chrome-extension",
+              "firefox-addon",
+              "firefox-extension",
+              "forks",
+              "forks-insight",
+              "github",
+              "github-forks",
+              "stars"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -138,12 +227,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A browser extension to keep track of incoming and outgoing PRs",
+            "homepage": null,
             "id": 137981763,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-29T03:40:37Z",
+            "open_issues": 25,
             "owner": "fwouts",
             "repo": "prmonitor",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "chrome-extension",
+              "developer-tools",
+              "development",
+              "firefox-addon",
+              "github",
+              "pull-request"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -154,12 +255,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "See what's new and what's not in your GitHub dashboard's feeds and in your organizations' feeds.",
+            "homepage": "https://chrome.google.com/webstore/detail/ldleapnlgbkpkabhbkkeangmnfpikahe",
             "id": 148616867,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-08T17:06:23Z",
+            "open_issues": 0,
             "owner": "hormesiel",
             "repo": "whats-new-github",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "browser-extension",
+              "chrome",
+              "chrome-extension",
+              "chrome-extensions",
+              "extension",
+              "firefox",
+              "firefox-addon",
+              "firefox-extension",
+              "firefox-extensions",
+              "github",
+              "github-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         }
@@ -176,12 +294,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Captcha solver extension for humans, available for Chrome, Edge and Firefox",
+            "homepage": "https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl",
             "id": 158064011,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-27T11:49:18Z",
+            "open_issues": 49,
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9278
+            "stars": 9278,
+            "topics": [
+              "browser-extension",
+              "captcha",
+              "captcha-solver",
+              "captcha-solving",
+              "chrome-extension",
+              "firefox-extension",
+              "recaptcha"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -192,12 +323,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.",
+            "homepage": "https://violentmonkey.github.io/",
             "id": 12558645,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T04:08:07Z",
+            "open_issues": 82,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8789
+            "stars": 8792,
+            "topics": [
+              "userscripts-support",
+              "violentmonkey",
+              "webextensions"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -208,12 +348,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stylus - Userstyles Manager",
+            "homepage": "https://add0n.com/stylus.html",
             "id": 78330996,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T16:49:13Z",
+            "open_issues": 96,
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6850
+            "stars": 6850,
+            "topics": [
+              "chrome-extension",
+              "firefox-extension",
+              "opera-addon",
+              "privacy",
+              "stylish",
+              "usercss",
+              "userstyles"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -224,12 +377,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Map your keys for web surfing, expand your browser with javascript and keyboard.",
+            "homepage": "https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc",
             "id": 41906632,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T23:59:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:33:06Z",
+            "open_issues": 442,
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6157
+            "stars": 6157,
+            "topics": [
+              "chrome",
+              "chromium",
+              "edge-extension",
+              "extension",
+              "firefox",
+              "firefox-addon",
+              "safari-extension",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -240,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "uMatrix: Point and click matrix to filter net requests according to source, destination and type",
+            "homepage": null,
             "id": 25272170,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-07-20T17:57:55Z",
+            "open_issues": 66,
             "owner": "gorhill",
             "repo": "uMatrix",
-            "stars": 4687
+            "stars": 4687,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -256,12 +428,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reddit Enhancement Suite",
+            "homepage": "http://redditenhancementsuite.com",
             "id": 2688907,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-17T18:32:44Z",
+            "open_issues": 686,
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4507
+            "stars": 4507,
+            "topics": [
+              "chrome-extension",
+              "edge-extension",
+              "firefox-addon",
+              "firefox-extension",
+              "hacktoberfest",
+              "reddit"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -272,12 +456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML5 video speed controller (for Google Chrome)",
+            "homepage": "https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk",
             "id": 17349273,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:03:27Z",
+            "open_issues": 11,
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4417
+            "stars": 4417,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -288,12 +477,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser extension for reverse image search, available for Chrome, Edge and Safari",
+            "homepage": "https://apps.apple.com/us/app/search-by-image-for-safari/id1544552106",
             "id": 94629944,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-27T11:49:36Z",
+            "open_issues": 77,
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3726
+            "stars": 3727,
+            "topics": [
+              "browser-extension",
+              "chrome-extension",
+              "firefox-extension",
+              "google",
+              "image",
+              "image-search",
+              "reverse-image-search",
+              "safari-extension",
+              "search",
+              "yandex"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -304,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.",
+            "homepage": "http://einaregilsson.com/redirector/",
             "id": 1620438,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-27T19:04:51Z",
+            "open_issues": 177,
             "owner": "einaregilsson",
             "repo": "Redirector",
-            "stars": 2081
+            "stars": 2081,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -320,12 +530,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.",
+            "homepage": null,
             "id": 78816383,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-26T09:54:25Z",
+            "open_issues": 172,
             "owner": "Cookie-AutoDelete",
             "repo": "Cookie-AutoDelete",
-            "stars": 2014
+            "stars": 2014,
+            "topics": [
+              "chrome",
+              "cookie",
+              "cookie-autodelete",
+              "cookies",
+              "deleting-cookies",
+              "firefox",
+              "google-chrome",
+              "mozilla-firefox",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -336,12 +561,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari",
+            "homepage": "https://apps.apple.com/us/app/web-archives-for-safari/id1603181853",
             "id": 99110692,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-27T14:03:55Z",
+            "open_issues": 28,
             "owner": "dessant",
             "repo": "web-archives",
-            "stars": 1585
+            "stars": 1586,
+            "topics": [
+              "archive",
+              "browser-extension",
+              "cache",
+              "chrome-extension",
+              "firefox-extension",
+              "google",
+              "safari-extension",
+              "wayback-machine",
+              "yandex"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -352,12 +592,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository has a new home: https://git.synz.io/Synzvato/decentraleyes",
+            "homepage": null,
             "id": 46812728,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2019-02-23T14:26:58Z",
+            "open_issues": 50,
             "owner": "Synzvato",
             "repo": "decentraleyes",
-            "stars": 1464
+            "stars": 1464,
+            "topics": [
+              "browser",
+              "browser-extension",
+              "cdn",
+              "privacy",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -368,12 +619,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐘 🔒 KeePass-compatible browser extension for filling passwords.",
+            "homepage": "https://subdavis.com/Tusk",
             "id": 77945376,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T02:16:18Z",
+            "open_issues": 69,
             "owner": "subdavis",
             "repo": "Tusk",
-            "stars": 523
+            "stars": 523,
+            "topics": [
+              "chrome-extension",
+              "firefox-addon",
+              "javascript",
+              "keepass",
+              "keeweb",
+              "password-manager",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -384,12 +648,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NooBoss is an extension that handles your extensions like a boss!",
+            "homepage": "https://ainoob.com/project/nooboss",
             "id": 74539327,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-10T02:09:02Z",
+            "open_issues": 45,
             "owner": "AInoob",
             "repo": "NooBoss",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "chrome-extension",
+              "extensions-management",
+              "nooboss",
+              "react-app",
+              "redux-application",
+              "userscript-management"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -400,12 +676,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SimpleLogin Chrome/ Firefox extension",
+            "homepage": null,
             "id": 227470137,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2025-03-20T15:13:26Z",
+            "open_issues": 45,
             "owner": "simple-login",
             "repo": "browser-extension",
-            "stars": 242
+            "stars": 242,
+            "topics": [
+              "chrome-extension",
+              "firefox-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -416,12 +700,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.",
+            "homepage": "https://lbragile.github.io/TabMerger-Extension/",
             "id": 307575034,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-03T06:05:17Z",
+            "open_issues": 11,
             "owner": "lbragile",
             "repo": "TabMerger",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "chrome-extension",
+              "edge-extension",
+              "firefox-extension",
+              "tab-management"
+            ]
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -432,12 +726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smart HTTPS",
+            "homepage": "https://mybrowseraddon.com/smart-https.html",
             "id": 80419869,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-01-26T08:12:40Z",
+            "open_issues": 27,
             "owner": "ilGur1132",
             "repo": "smart-https",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         },
@@ -448,12 +747,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Google Chrome extension for Pinboard.in (https://pinboard.in).",
+            "homepage": null,
             "id": 39453547,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-12-13T17:31:58Z",
+            "open_issues": 0,
             "owner": "richardkall",
             "repo": "pinboard-pro-chrome-extension",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
         }
@@ -462,15 +766,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:24:22.604Z",
+    "last_updated": "2026-08-29T04:43:46.468Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Chrome Extensions",
+      "homepage": null,
       "id": 104637842,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-03T14:29:41Z",
+      "open_issues": 31,
       "owner": "linsa-io",
       "repo": "chrome-extensions",
-      "stars": 482
+      "stars": 482,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "chrome",
+        "chrome-dev",
+        "chrome-extensions",
+        "curated-list"
+      ]
     },
     "original_repository_sha": "f67b189cc7a1cf169890492e802d343c40ee2d4e",
     "enhanced_repository": "enhansome/enhansome-chrome-extensions",
