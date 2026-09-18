@@ -15,11 +15,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T08:52:35Z",
-            "open_issues": 83,
+            "last_commit": "2026-09-17T09:00:16Z",
+            "open_issues": 82,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32175,
+            "stars": 32179,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -48,7 +48,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23245,
+            "stars": 23248,
             "topics": [
               "browser-extension",
               "chrome",
@@ -80,7 +80,7 @@
             "open_issues": 265,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13446,
+            "stars": 13445,
             "topics": [
               "debug",
               "devtools",
@@ -135,7 +135,7 @@
             "open_issues": 0,
             "owner": "callumlocke",
             "repo": "json-formatter",
-            "stars": 4130,
+            "stars": 4131,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -303,7 +303,7 @@
             "open_issues": 50,
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9303,
+            "stars": 9302,
             "topics": [
               "browser-extension",
               "captcha",
@@ -328,11 +328,11 @@
             "id": 12558645,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T06:29:06Z",
+            "last_commit": "2026-09-17T21:44:49Z",
             "open_issues": 82,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8886,
+            "stars": 8892,
             "topics": [
               "userscripts-support",
               "violentmonkey",
@@ -353,11 +353,11 @@
             "id": 78330996,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T05:41:12Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-17T20:46:37Z",
+            "open_issues": 96,
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6886,
+            "stars": 6890,
             "topics": [
               "chrome-extension",
               "firefox-extension",
@@ -383,10 +383,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T00:07:32Z",
-            "open_issues": 428,
+            "open_issues": 426,
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6172,
+            "stars": 6173,
             "topics": [
               "chrome",
               "chromium",
@@ -434,10 +434,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-04T23:20:43Z",
-            "open_issues": 682,
+            "open_issues": 683,
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4519,
+            "stars": 4520,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -465,7 +465,7 @@
             "open_issues": 20,
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4433,
+            "stars": 4434,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -518,7 +518,7 @@
             "open_issues": 177,
             "owner": "einaregilsson",
             "repo": "Redirector",
-            "stars": 2088,
+            "stars": 2089,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -539,7 +539,7 @@
             "open_issues": 171,
             "owner": "Cookie-AutoDelete",
             "repo": "Cookie-AutoDelete",
-            "stars": 2017,
+            "stars": 2018,
             "topics": [
               "chrome",
               "cookie",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:45:57.388Z",
+    "last_updated": "2026-09-18T06:43:06.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
@@ -778,7 +778,7 @@
       "open_issues": 40,
       "owner": "linsa-io",
       "repo": "chrome-extensions",
-      "stars": 482,
+      "stars": 481,
       "topics": [
         "awesome",
         "awesome-list",
