@@ -4,11 +4,11 @@
 
 ## Developer
 
-* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,198 | 🐛 84 | 🌐 TypeScript | 📅 2026-09-20 - Simplifies the GitHub interface and adds useful features.
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,251 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,201 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-23 - Simplifies the GitHub interface and adds useful features.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,255 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,445 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) ⚠️ Archived - Make any webpage feel like an artboard.
-* [JSON formatter](https://github.com/callumlocke/json-formatter) ⭐ 4,132 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04 - Makes JSON/JSONP easy to read.
+* [JSON formatter](https://github.com/callumlocke/json-formatter) ⭐ 4,133 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04 - Makes JSON/JSONP easy to read.
 * [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) ⭐ 1,993 | 🐛 7 | 🌐 JavaScript | 📅 2018-12-11 - Simply adds night theme to Chrome dev tools.
 * [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) ⚠️ Archived - Adds autocomplete for GitHub's search bar.
 * [Lovely forks](https://github.com/musically-ut/lovely-forks) ⭐ 673 | 🐛 16 | 🌐 JavaScript | 📅 2026-06-22 - Show notable forks of GitHub repositories under their names.
@@ -31,15 +31,15 @@
 
 ## General
 
-* [Buster](https://github.com/dessant/buster) ⭐ 9,300 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans.
-* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 8,914 | 🐛 81 | 🌐 JavaScript | 📅 2026-09-21 - Provides userscripts support for browsers.
-* [Stylus](https://github.com/openstyles/stylus/) ⭐ 6,894 | 🐛 96 | 🌐 JavaScript | 📅 2026-09-20 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
-* [Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,175 | 🐛 420 | 🌐 JavaScript | 📅 2026-09-21 - Map your keys for web surfing, expand your browser with javascript and keyboard.
+* [Buster](https://github.com/dessant/buster) ⭐ 9,302 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans.
+* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 8,922 | 🐛 82 | 🌐 JavaScript | 📅 2026-09-21 - Provides userscripts support for browsers.
+* [Stylus](https://github.com/openstyles/stylus/) ⭐ 6,897 | 🐛 96 | 🌐 JavaScript | 📅 2026-09-20 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
+* [Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,175 | 🐛 421 | 🌐 JavaScript | 📅 2026-09-21 - Map your keys for web surfing, expand your browser with javascript and keyboard.
 * [uMatrix](https://github.com/gorhill/uMatrix) ⚠️ Archived - Point and click matrix to filter net requests according to source, destination and type.
-* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,520 | 🐛 683 | 🌐 JavaScript | 📅 2026-09-04 - Includes many features that enhances your Reddit browsing experience.
-* [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,435 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-21 - HTML5 video speed controller.
-* [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,757 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
-* [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,090 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,090 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27.
+* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,521 | 🐛 683 | 🌐 JavaScript | 📅 2026-09-04 - Includes many features that enhances your Reddit browsing experience.
+* [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,436 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-21 - HTML5 video speed controller.
+* [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,758 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
+* [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,089 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,089 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27.
 * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) ⭐ 2,018 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) ⭐ 2,018 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues) ⭐ 2,018 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26.
 * [Web Archives](https://github.com/dessant/web-archives) ⭐ 1,593 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for viewing archived and cached versions of web pages.
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes) ⚠️ Archived - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction) ⚠️ Archived).
@@ -95,4 +95,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
