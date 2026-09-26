@@ -4,7 +4,7 @@
 
 ## Developer
 
-* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,209 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-24 - Simplifies the GitHub interface and adds useful features.
+* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,221 | 🐛 92 | 🌐 TypeScript | 📅 2026-09-26 - Simplifies the GitHub interface and adds useful features.
 * [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,258 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,445 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) ⚠️ Archived - Make any webpage feel like an artboard.
@@ -32,21 +32,21 @@
 ## General
 
 * [Buster](https://github.com/dessant/buster) ⭐ 9,306 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans.
-* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 8,934 | 🐛 82 | 🌐 JavaScript | 📅 2026-09-24 - Provides userscripts support for browsers.
-* [Stylus](https://github.com/openstyles/stylus/) ⭐ 6,901 | 🐛 96 | 🌐 JavaScript | 📅 2026-09-20 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
+* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 8,936 | 🐛 82 | 🌐 JavaScript | 📅 2026-09-24 - Provides userscripts support for browsers.
+* [Stylus](https://github.com/openstyles/stylus/) ⭐ 6,903 | 🐛 96 | 🌐 JavaScript | 📅 2026-09-25 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
 * [Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,176 | 🐛 421 | 🌐 JavaScript | 📅 2026-09-21 - Map your keys for web surfing, expand your browser with javascript and keyboard.
 * [uMatrix](https://github.com/gorhill/uMatrix) ⚠️ Archived - Point and click matrix to filter net requests according to source, destination and type.
-* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,522 | 🐛 683 | 🌐 JavaScript | 📅 2026-09-04 - Includes many features that enhances your Reddit browsing experience.
-* [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,437 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-21 - HTML5 video speed controller.
-* [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,761 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
-* [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,089 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,089 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27.
+* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,524 | 🐛 683 | 🌐 JavaScript | 📅 2026-09-04 - Includes many features that enhances your Reddit browsing experience.
+* [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,439 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-21 - HTML5 video speed controller.
+* [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,764 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
+* [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,090 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,090 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27.
 * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) ⭐ 2,018 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) ⭐ 2,018 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues) ⭐ 2,018 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26.
 * [Web Archives](https://github.com/dessant/web-archives) ⭐ 1,594 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for viewing archived and cached versions of web pages.
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes) ⚠️ Archived - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction) ⚠️ Archived).
 * [KeePass Tusk](https://github.com/suBDavis/Tusk) ⭐ 524 | 🐛 72 | 🌐 JavaScript | 📅 2026-09-13 - KeePass-compatible browser extension for filling passwords.
 * [NooBoss](https://github.com/AInoob/NooBoss) ⭐ 329 | 🐛 45 | 🌐 JavaScript | 📅 2025-01-10 - Powerful Extensions Manager and Userscript Manager with many unique features.
 * [SimpleLogin](https://github.com/simple-login/browser-extension) ⭐ 242 | 🐛 47 | 🌐 Vue | 📅 2025-03-20 - Protect your email address using email alias. 100% open source and can be self-hosted.
-* [TabMerger](https://github.com/lbragile/TabMerger) ⭐ 187 | 🐛 11 | 🌐 TypeScript | 📅 2023-08-03 - Merges your tabs into one location to save memory usage and increase your productivity.
+* [TabMerger](https://github.com/lbragile/TabMerger) ⭐ 186 | 🐛 11 | 🌐 TypeScript | 📅 2023-08-03 - Merges your tabs into one location to save memory usage and increase your productivity.
 * [Smart HTTPS](https://github.com/ilGur1132/Smart-HTTPS) ⭐ 88 | 🐛 27 | 🌐 JavaScript | 📅 2026-01-26 - Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.
 * [Pinboard Pro](https://github.com/richardkall/pinboard-pro-chrome-extension) ⚠️ Archived - Google Chrome extension for Pinboard.in.
 * [Tabli](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) - Simple, powerful tab manager.
@@ -95,4 +95,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
