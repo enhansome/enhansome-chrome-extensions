@@ -15,11 +15,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T07:29:42Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-30T09:19:00Z",
+            "open_issues": 76,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32231,
+            "stars": 32238,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23263,
+            "stars": 23261,
             "topics": [
               "browser-extension",
               "chrome",
@@ -177,7 +177,7 @@
             "open_issues": 18,
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
-            "stars": 1070,
+            "stars": 1071,
             "topics": [
               "algolia",
               "chrome",
@@ -202,7 +202,7 @@
             "language": "JavaScript",
             "license": "MPL-2.0",
             "last_commit": "2026-06-22T14:18:58Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "musically-ut",
             "repo": "lovely-forks",
             "stars": 674,
@@ -300,10 +300,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-06-27T11:49:18Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9311,
+            "stars": 9314,
             "topics": [
               "browser-extension",
               "captcha",
@@ -332,7 +332,7 @@
             "open_issues": 82,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8959,
+            "stars": 8961,
             "topics": [
               "userscripts-support",
               "violentmonkey",
@@ -357,7 +357,7 @@
             "open_issues": 94,
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6912,
+            "stars": 6916,
             "topics": [
               "chrome-extension",
               "firefox-extension",
@@ -383,7 +383,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-30T00:18:48Z",
-            "open_issues": 418,
+            "open_issues": 416,
             "owner": "brookhong",
             "repo": "Surfingkeys",
             "stars": 6174,
@@ -465,7 +465,7 @@
             "open_issues": 26,
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4441,
+            "stars": 4443,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -486,7 +486,7 @@
             "open_issues": 77,
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3769,
+            "stars": 3770,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -518,7 +518,7 @@
             "open_issues": 178,
             "owner": "einaregilsson",
             "repo": "Redirector",
-            "stars": 2091,
+            "stars": 2093,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -539,7 +539,7 @@
             "open_issues": 171,
             "owner": "Cookie-AutoDelete",
             "repo": "Cookie-AutoDelete",
-            "stars": 2018,
+            "stars": 2019,
             "topics": [
               "chrome",
               "cookie",
@@ -624,11 +624,11 @@
             "id": 77945376,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T21:48:43Z",
+            "last_commit": "2026-10-01T06:23:16Z",
             "open_issues": 72,
             "owner": "subdavis",
             "repo": "Tusk",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "chrome-extension",
               "firefox-addon",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T07:31:45.290Z",
+    "last_updated": "2026-10-01T07:51:03.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
