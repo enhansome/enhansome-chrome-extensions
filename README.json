@@ -19,7 +19,7 @@
             "open_issues": 77,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32248,
+            "stars": 32254,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23265,
+            "stars": 23270,
             "topics": [
               "browser-extension",
               "chrome",
@@ -80,7 +80,7 @@
             "open_issues": 265,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13442,
+            "stars": 13441,
             "topics": [
               "debug",
               "devtools",
@@ -135,7 +135,7 @@
             "open_issues": 0,
             "owner": "callumlocke",
             "repo": "json-formatter",
-            "stars": 4134,
+            "stars": 4133,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -328,11 +328,11 @@
             "id": 12558645,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T11:55:18Z",
+            "last_commit": "2026-10-02T15:00:29Z",
             "open_issues": 82,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8964,
+            "stars": 8968,
             "topics": [
               "userscripts-support",
               "violentmonkey",
@@ -353,11 +353,11 @@
             "id": 78330996,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T16:48:12Z",
+            "last_commit": "2026-10-02T13:05:39Z",
             "open_issues": 94,
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6919,
+            "stars": 6924,
             "topics": [
               "chrome-extension",
               "firefox-extension",
@@ -383,7 +383,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-02T05:57:48Z",
-            "open_issues": 417,
+            "open_issues": 416,
             "owner": "brookhong",
             "repo": "Surfingkeys",
             "stars": 6175,
@@ -416,7 +416,7 @@
             "open_issues": 66,
             "owner": "gorhill",
             "repo": "uMatrix",
-            "stars": 4681,
+            "stars": 4680,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -465,7 +465,7 @@
             "open_issues": 26,
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4444,
+            "stars": 4446,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -518,7 +518,7 @@
             "open_issues": 178,
             "owner": "einaregilsson",
             "repo": "Redirector",
-            "stars": 2093,
+            "stars": 2092,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -539,7 +539,7 @@
             "open_issues": 171,
             "owner": "Cookie-AutoDelete",
             "repo": "Cookie-AutoDelete",
-            "stars": 2017,
+            "stars": 2016,
             "topics": [
               "chrome",
               "cookie",
@@ -570,7 +570,7 @@
             "open_issues": 28,
             "owner": "dessant",
             "repo": "web-archives",
-            "stars": 1597,
+            "stars": 1598,
             "topics": [
               "archive",
               "browser-extension",
@@ -682,7 +682,7 @@
             "language": "Vue",
             "license": "MIT",
             "last_commit": "2025-03-20T15:13:26Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "simple-login",
             "repo": "browser-extension",
             "stars": 243,
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:33:53.201Z",
+    "last_updated": "2026-10-03T04:36:19.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
