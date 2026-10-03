@@ -4,8 +4,8 @@
 
 ## Developer
 
-* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,254 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-01 - Simplifies the GitHub interface and adds useful features.
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,270 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,255 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-03 - Simplifies the GitHub interface and adds useful features.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,271 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,441 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) ⚠️ Archived - Make any webpage feel like an artboard.
 * [JSON formatter](https://github.com/callumlocke/json-formatter) ⭐ 4,133 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04 - Makes JSON/JSONP easy to read.
@@ -40,7 +40,7 @@
 * [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,446 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-29 - HTML5 video speed controller.
 * [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,771 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
 * [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,092 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,092 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27.
-* [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) ⭐ 2,016 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) ⭐ 2,016 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues) ⭐ 2,016 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26.
+* [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) ⭐ 2,017 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) ⭐ 2,017 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues) ⭐ 2,017 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26.
 * [Web Archives](https://github.com/dessant/web-archives) ⭐ 1,598 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for viewing archived and cached versions of web pages.
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes) ⚠️ Archived - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction) ⚠️ Archived).
 * [KeePass Tusk](https://github.com/suBDavis/Tusk) ⭐ 525 | 🐛 72 | 🌐 JavaScript | 📅 2026-10-01 - KeePass-compatible browser extension for filling passwords.

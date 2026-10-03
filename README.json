@@ -15,11 +15,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T09:05:30Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-03T06:40:44Z",
+            "open_issues": 78,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32254,
+            "stars": 32255,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23270,
+            "stars": 23271,
             "topics": [
               "browser-extension",
               "chrome",
@@ -539,7 +539,7 @@
             "open_issues": 171,
             "owner": "Cookie-AutoDelete",
             "repo": "Cookie-AutoDelete",
-            "stars": 2016,
+            "stars": 2017,
             "topics": [
               "chrome",
               "cookie",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:36:19.896Z",
+    "last_updated": "2026-10-03T07:08:09.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
