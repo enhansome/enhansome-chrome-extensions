@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23278,
+            "stars": 23277,
             "topics": [
               "browser-extension",
               "chrome",
@@ -80,7 +80,7 @@
             "open_issues": 266,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13441,
+            "stars": 13440,
             "topics": [
               "debug",
               "devtools",
@@ -201,8 +201,8 @@
             "id": 37826756,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-01T19:36:51Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-06T17:03:37Z",
+            "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
             "stars": 673,
@@ -303,7 +303,7 @@
             "open_issues": 51,
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9319,
+            "stars": 9320,
             "topics": [
               "browser-extension",
               "captcha",
@@ -332,7 +332,7 @@
             "open_issues": 83,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 8978,
+            "stars": 8980,
             "topics": [
               "userscripts-support",
               "violentmonkey",
@@ -354,7 +354,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T13:36:01Z",
-            "open_issues": 95,
+            "open_issues": 94,
             "owner": "openstyles",
             "repo": "stylus",
             "stars": 6925,
@@ -383,7 +383,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-02T05:57:48Z",
-            "open_issues": 415,
+            "open_issues": 413,
             "owner": "brookhong",
             "repo": "Surfingkeys",
             "stars": 6177,
@@ -437,7 +437,7 @@
             "open_issues": 685,
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4525,
+            "stars": 4526,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -462,10 +462,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-29T22:09:50Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4452,
+            "stars": 4454,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -486,7 +486,7 @@
             "open_issues": 78,
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3775,
+            "stars": 3777,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -701,11 +701,11 @@
           "repo_info": {
             "archived": false,
             "description": "TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.",
-            "homepage": "https://tabmerger-preview.vercel.app",
+            "homepage": "https://tabmerger.vercel.app",
             "id": 307575034,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T07:04:56Z",
+            "last_commit": "2026-10-07T06:30:27Z",
             "open_issues": 0,
             "owner": "lbragile",
             "repo": "TabMerger",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:56:28.319Z",
+    "last_updated": "2026-10-07T07:44:23.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
