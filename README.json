@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-09T14:34:47Z",
-            "open_issues": 76,
+            "open_issues": 78,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32291,
+            "stars": 32299,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -80,7 +80,7 @@
             "open_issues": 265,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13438,
+            "stars": 13436,
             "topics": [
               "debug",
               "devtools",
@@ -107,7 +107,7 @@
             "open_issues": 246,
             "owner": "GoogleChromeLabs",
             "repo": "ProjectVisBug",
-            "stars": 5766,
+            "stars": 5765,
             "topics": [
               "debugging-tool",
               "design-tools",
@@ -328,11 +328,11 @@
             "id": 12558645,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T06:10:38Z",
+            "last_commit": "2026-10-12T20:00:26Z",
             "open_issues": 84,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 9003,
+            "stars": 9009,
             "topics": [
               "userscripts-support",
               "violentmonkey",
@@ -353,7 +353,7 @@
             "id": 78330996,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T13:59:27Z",
+            "last_commit": "2026-10-12T20:55:00Z",
             "open_issues": 94,
             "owner": "openstyles",
             "repo": "stylus",
@@ -465,7 +465,7 @@
             "open_issues": 30,
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4460,
+            "stars": 4461,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -486,7 +486,7 @@
             "open_issues": 79,
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3785,
+            "stars": 3788,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -518,7 +518,7 @@
             "open_issues": 178,
             "owner": "einaregilsson",
             "repo": "Redirector",
-            "stars": 2094,
+            "stars": 2095,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -539,7 +539,7 @@
             "open_issues": 171,
             "owner": "Cookie-AutoDelete",
             "repo": "Cookie-AutoDelete",
-            "stars": 2015,
+            "stars": 2014,
             "topics": [
               "chrome",
               "cookie",
@@ -628,7 +628,7 @@
             "open_issues": 73,
             "owner": "subdavis",
             "repo": "Tusk",
-            "stars": 524,
+            "stars": 523,
             "topics": [
               "chrome-extension",
               "firefox-addon",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T08:06:31.360Z",
+    "last_updated": "2026-10-13T08:32:13.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
