@@ -4,14 +4,14 @@
 
 ## Developer
 
-* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,312 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-13 - Simplifies the GitHub interface and adds useful features.
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,282 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,315 | 🐛 91 | 🌐 TypeScript | 📅 2026-10-15 - Simplifies the GitHub interface and adds useful features.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,283 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,436 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) ⚠️ Archived - Make any webpage feel like an artboard.
 * [JSON formatter](https://github.com/callumlocke/json-formatter) ⭐ 4,134 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04 - Makes JSON/JSONP easy to read.
 * [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) ⭐ 1,993 | 🐛 7 | 🌐 JavaScript | 📅 2018-12-11 - Simply adds night theme to Chrome dev tools.
 * [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) ⚠️ Archived - Adds autocomplete for GitHub's search bar.
-* [Lovely forks](https://github.com/musically-ut/lovely-forks) ⭐ 673 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-06 - Show notable forks of GitHub repositories under their names.
+* [Lovely forks](https://github.com/musically-ut/lovely-forks) ⭐ 674 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-06 - Show notable forks of GitHub repositories under their names.
 * [PR Monitor](https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng) - Browser extension to keep track of incoming and outgoing PRs. ([Code](https://github.com/fwouts/prmonitor) ⚠️ Archived)
 * [What's New on GitHub](https://github.com/flawyte/whats-new-github) ⚠️ Archived - Helps you see easily what happened on GitHub since your last visit.
 * [CodeWing](https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee) - Next level code navigation for GitHub.
@@ -31,22 +31,22 @@
 
 ## General
 
-* [Buster](https://github.com/dessant/buster) ⭐ 9,335 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans.
-* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 9,017 | 🐛 84 | 🌐 JavaScript | 📅 2026-10-13 - Provides userscripts support for browsers.
+* [Buster](https://github.com/dessant/buster) ⭐ 9,336 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-27 - Captcha solver extension for humans.
+* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 9,022 | 🐛 84 | 🌐 JavaScript | 📅 2026-10-13 - Provides userscripts support for browsers.
 * [Stylus](https://github.com/openstyles/stylus/) ⭐ 6,931 | 🐛 94 | 🌐 JavaScript | 📅 2026-10-13 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
-* [Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,181 | 🐛 414 | 🌐 JavaScript | 📅 2026-10-02 - Map your keys for web surfing, expand your browser with javascript and keyboard.
+* [Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,182 | 🐛 414 | 🌐 JavaScript | 📅 2026-10-02 - Map your keys for web surfing, expand your browser with javascript and keyboard.
 * [uMatrix](https://github.com/gorhill/uMatrix) ⚠️ Archived - Point and click matrix to filter net requests according to source, destination and type.
 * [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,528 | 🐛 686 | 🌐 JavaScript | 📅 2026-10-08 - Includes many features that enhances your Reddit browsing experience.
 * [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,463 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-29 - HTML5 video speed controller.
-* [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,787 | 🐛 79 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
+* [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,788 | 🐛 79 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
 * [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,094 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,094 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27.
 * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) ⭐ 2,013 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) ⭐ 2,013 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues) ⭐ 2,013 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26.
-* [Web Archives](https://github.com/dessant/web-archives) ⭐ 1,601 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for viewing archived and cached versions of web pages.
+* [Web Archives](https://github.com/dessant/web-archives) ⭐ 1,602 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for viewing archived and cached versions of web pages.
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes) ⚠️ Archived - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction) ⚠️ Archived).
 * [KeePass Tusk](https://github.com/suBDavis/Tusk) ⭐ 523 | 🐛 73 | 🌐 JavaScript | 📅 2026-10-13 - KeePass-compatible browser extension for filling passwords.
 * [NooBoss](https://github.com/AInoob/NooBoss) ⭐ 330 | 🐛 45 | 🌐 JavaScript | 📅 2025-01-10 - Powerful Extensions Manager and Userscript Manager with many unique features.
 * [SimpleLogin](https://github.com/simple-login/browser-extension) ⭐ 245 | 🐛 48 | 🌐 Vue | 📅 2025-03-20 - Protect your email address using email alias. 100% open source and can be self-hosted.
-* [TabMerger](https://github.com/lbragile/TabMerger) ⭐ 188 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-11 - Merges your tabs into one location to save memory usage and increase your productivity.
+* [TabMerger](https://github.com/lbragile/TabMerger) ⭐ 189 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-15 - Merges your tabs into one location to save memory usage and increase your productivity.
 * [Smart HTTPS](https://github.com/ilGur1132/Smart-HTTPS) ⭐ 88 | 🐛 27 | 🌐 JavaScript | 📅 2026-01-26 - Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.
 * [Pinboard Pro](https://github.com/richardkall/pinboard-pro-chrome-extension) ⚠️ Archived - Google Chrome extension for Pinboard.in.
 * [Tabli](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) - Simple, powerful tab manager.
@@ -95,4 +95,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
