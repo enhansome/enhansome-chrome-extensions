@@ -15,11 +15,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T05:52:43Z",
-            "open_issues": 95,
+            "last_commit": "2026-10-17T17:00:00Z",
+            "open_issues": 96,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32325,
+            "stars": 32327,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -107,7 +107,7 @@
             "open_issues": 246,
             "owner": "GoogleChromeLabs",
             "repo": "ProjectVisBug",
-            "stars": 5766,
+            "stars": 5765,
             "topics": [
               "debugging-tool",
               "design-tools",
@@ -303,7 +303,7 @@
             "open_issues": 50,
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9334,
+            "stars": 9336,
             "topics": [
               "browser-extension",
               "captcha",
@@ -332,7 +332,7 @@
             "open_issues": 84,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 9033,
+            "stars": 9041,
             "topics": [
               "userscripts-support",
               "violentmonkey",
@@ -353,11 +353,11 @@
             "id": 78330996,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T05:42:53Z",
-            "open_issues": 95,
+            "last_commit": "2026-10-17T21:34:26Z",
+            "open_issues": 94,
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6935,
+            "stars": 6936,
             "topics": [
               "chrome-extension",
               "firefox-extension",
@@ -383,10 +383,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-17T03:09:46Z",
-            "open_issues": 412,
+            "open_issues": 411,
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6182,
+            "stars": 6183,
             "topics": [
               "chrome",
               "chromium",
@@ -437,7 +437,7 @@
             "open_issues": 687,
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4525,
+            "stars": 4527,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -465,7 +465,7 @@
             "open_issues": 32,
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4462,
+            "stars": 4461,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -539,7 +539,7 @@
             "open_issues": 171,
             "owner": "Cookie-AutoDelete",
             "repo": "Cookie-AutoDelete",
-            "stars": 2012,
+            "stars": 2011,
             "topics": [
               "chrome",
               "cookie",
@@ -570,7 +570,7 @@
             "open_issues": 28,
             "owner": "dessant",
             "repo": "web-archives",
-            "stars": 1602,
+            "stars": 1603,
             "topics": [
               "archive",
               "browser-extension",
@@ -709,7 +709,7 @@
             "open_issues": 0,
             "owner": "lbragile",
             "repo": "TabMerger",
-            "stars": 190,
+            "stars": 191,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:16:06.517Z",
+    "last_updated": "2026-10-18T06:38:45.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
@@ -775,7 +775,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-03T14:29:41Z",
-      "open_issues": 54,
+      "open_issues": 55,
       "owner": "linsa-io",
       "repo": "chrome-extensions",
       "stars": 481,
