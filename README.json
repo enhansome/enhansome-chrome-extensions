@@ -15,11 +15,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T06:40:00Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-20T06:39:59Z",
+            "open_issues": 98,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32331,
+            "stars": 32343,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -48,7 +48,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23286,
+            "stars": 23289,
             "topics": [
               "browser-extension",
               "chrome",
@@ -80,7 +80,7 @@
             "open_issues": 265,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13437,
+            "stars": 13436,
             "topics": [
               "debug",
               "devtools",
@@ -107,7 +107,7 @@
             "open_issues": 246,
             "owner": "GoogleChromeLabs",
             "repo": "ProjectVisBug",
-            "stars": 5764,
+            "stars": 5765,
             "topics": [
               "debugging-tool",
               "design-tools",
@@ -205,7 +205,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 674,
+            "stars": 675,
             "topics": [
               "addon",
               "chrome-extension",
@@ -303,7 +303,7 @@
             "open_issues": 50,
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9337,
+            "stars": 9339,
             "topics": [
               "browser-extension",
               "captcha",
@@ -332,7 +332,7 @@
             "open_issues": 84,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 9042,
+            "stars": 9046,
             "topics": [
               "userscripts-support",
               "violentmonkey",
@@ -353,11 +353,11 @@
             "id": 78330996,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T21:34:26Z",
+            "last_commit": "2026-10-19T13:40:41Z",
             "open_issues": 94,
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 6941,
+            "stars": 6943,
             "topics": [
               "chrome-extension",
               "firefox-extension",
@@ -382,11 +382,11 @@
             "id": 41906632,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T03:09:46Z",
-            "open_issues": 410,
+            "last_commit": "2026-10-19T07:53:01Z",
+            "open_issues": 408,
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6186,
+            "stars": 6187,
             "topics": [
               "chrome",
               "chromium",
@@ -434,10 +434,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-16T10:17:35Z",
-            "open_issues": 687,
+            "open_issues": 686,
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4525,
+            "stars": 4526,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -486,7 +486,7 @@
             "open_issues": 79,
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3790,
+            "stars": 3791,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -570,7 +570,7 @@
             "open_issues": 28,
             "owner": "dessant",
             "repo": "web-archives",
-            "stars": 1604,
+            "stars": 1605,
             "topics": [
               "archive",
               "browser-extension",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T06:58:13.654Z",
+    "last_updated": "2026-10-20T06:43:19.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
@@ -775,7 +775,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-03T14:29:41Z",
-      "open_issues": 57,
+      "open_issues": 58,
       "owner": "linsa-io",
       "repo": "chrome-extensions",
       "stars": 481,
