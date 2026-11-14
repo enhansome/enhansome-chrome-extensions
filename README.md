@@ -4,8 +4,8 @@
 
 ## Developer
 
-* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,479 | 🐛 86 | 🌐 TypeScript | 📅 2026-11-09 - Simplifies the GitHub interface and adds useful features.
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,312 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,484 | 🐛 87 | 🌐 TypeScript | 📅 2026-11-13 - Simplifies the GitHub interface and adds useful features.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,315 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,430 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) ⚠️ Archived - Make any webpage feel like an artboard.
 * [JSON formatter](https://github.com/callumlocke/json-formatter) ⭐ 4,136 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04 - Makes JSON/JSONP easy to read.
@@ -31,15 +31,15 @@
 
 ## General
 
-* [Buster](https://github.com/dessant/buster) ⭐ 9,379 | 🐛 51 | 🌐 JavaScript | 📅 2026-11-11 - Captcha solver extension for humans.
-* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 9,170 | 🐛 90 | 🌐 JavaScript | 📅 2026-11-12 - Provides userscripts support for browsers.
-* [Stylus](https://github.com/openstyles/stylus/) ⭐ 7,004 | 🐛 92 | 🌐 JavaScript | 📅 2026-11-12 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
-* [Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,202 | 🐛 389 | 🌐 JavaScript | 📅 2026-11-06 - Map your keys for web surfing, expand your browser with javascript and keyboard.
+* [Buster](https://github.com/dessant/buster) ⭐ 9,382 | 🐛 52 | 🌐 JavaScript | 📅 2026-11-11 - Captcha solver extension for humans.
+* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 9,178 | 🐛 91 | 🌐 JavaScript | 📅 2026-11-12 - Provides userscripts support for browsers.
+* [Stylus](https://github.com/openstyles/stylus/) ⭐ 7,006 | 🐛 92 | 🌐 JavaScript | 📅 2026-11-12 - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
+* [Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,202 | 🐛 387 | 🌐 JavaScript | 📅 2026-11-14 - Map your keys for web surfing, expand your browser with javascript and keyboard.
 * [uMatrix](https://github.com/gorhill/uMatrix) ⚠️ Archived - Point and click matrix to filter net requests according to source, destination and type.
-* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,553 | 🐛 661 | 🌐 JavaScript | 📅 2026-11-11 - Includes many features that enhances your Reddit browsing experience.
-* [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,480 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-29 - HTML5 video speed controller.
-* [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,823 | 🐛 79 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
-* [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,101 | 🐛 164 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,101 | 🐛 164 | 🌐 JavaScript | 📅 2025-07-27.
+* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,553 | 🐛 661 | 🌐 JavaScript | 📅 2026-11-13 - Includes many features that enhances your Reddit browsing experience.
+* [Video Speed Controller](https://github.com/igrigorik/videospeed) ⭐ 4,480 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-29 - HTML5 video speed controller.
+* [Search by Image](https://github.com/dessant/search-by-image) ⭐ 3,822 | 🐛 79 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for reverse image search.
+* [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) ⭐ 2,102 | 🐛 164 | 🌐 JavaScript | 📅 2025-07-27 and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples) ⭐ 2,102 | 🐛 164 | 🌐 JavaScript | 📅 2025-07-27.
 * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) ⭐ 2,020 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) ⭐ 2,020 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26 and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues) ⭐ 2,020 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26.
 * [Web Archives](https://github.com/dessant/web-archives) ⭐ 1,612 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-27 - Browser extension for viewing archived and cached versions of web pages.
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes) ⚠️ Archived - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction) ⚠️ Archived).
@@ -95,4 +95,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

@@ -15,11 +15,11 @@
             "id": 51769689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T10:53:16Z",
-            "open_issues": 86,
+            "last_commit": "2026-11-13T19:20:56Z",
+            "open_issues": 87,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32479,
+            "stars": 32484,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -48,7 +48,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23312,
+            "stars": 23315,
             "topics": [
               "browser-extension",
               "chrome",
@@ -300,10 +300,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-11T12:42:26Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9379,
+            "stars": 9382,
             "topics": [
               "browser-extension",
               "captcha",
@@ -329,10 +329,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-12T16:29:27Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 9170,
+            "stars": 9178,
             "topics": [
               "userscripts-support",
               "violentmonkey",
@@ -357,7 +357,7 @@
             "open_issues": 92,
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 7004,
+            "stars": 7006,
             "topics": [
               "chrome-extension",
               "firefox-extension",
@@ -382,8 +382,8 @@
             "id": 41906632,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T12:44:46Z",
-            "open_issues": 389,
+            "last_commit": "2026-11-14T03:13:08Z",
+            "open_issues": 387,
             "owner": "brookhong",
             "repo": "Surfingkeys",
             "stars": 6202,
@@ -416,7 +416,7 @@
             "open_issues": 66,
             "owner": "gorhill",
             "repo": "uMatrix",
-            "stars": 4671,
+            "stars": 4672,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -433,7 +433,7 @@
             "id": 2688907,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T18:27:55Z",
+            "last_commit": "2026-11-13T22:49:02Z",
             "open_issues": 661,
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
@@ -462,7 +462,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-29T10:40:56Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "igrigorik",
             "repo": "videospeed",
             "stars": 4480,
@@ -486,7 +486,7 @@
             "open_issues": 79,
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3823,
+            "stars": 3822,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -518,7 +518,7 @@
             "open_issues": 164,
             "owner": "einaregilsson",
             "repo": "Redirector",
-            "stars": 2101,
+            "stars": 2102,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T08:49:00.737Z",
+    "last_updated": "2026-11-14T08:07:44.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
@@ -775,7 +775,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-03T14:29:41Z",
-      "open_issues": 76,
+      "open_issues": 78,
       "owner": "gendotnew",
       "repo": "chrome-extensions",
       "stars": 482,
