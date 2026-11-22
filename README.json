@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-21T07:49:57Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32526,
+            "stars": 32531,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -303,7 +303,7 @@
             "open_issues": 52,
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9395,
+            "stars": 9402,
             "topics": [
               "browser-extension",
               "captcha",
@@ -332,7 +332,7 @@
             "open_issues": 88,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 9221,
+            "stars": 9225,
             "topics": [
               "userscripts-support",
               "violentmonkey",
@@ -353,11 +353,11 @@
             "id": 78330996,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T07:36:53Z",
-            "open_issues": 93,
+            "last_commit": "2026-11-21T22:14:20Z",
+            "open_issues": 91,
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 7018,
+            "stars": 7017,
             "topics": [
               "chrome-extension",
               "firefox-extension",
@@ -383,10 +383,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-14T03:13:08Z",
-            "open_issues": 385,
+            "open_issues": 384,
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6209,
+            "stars": 6212,
             "topics": [
               "chrome",
               "chromium",
@@ -461,8 +461,8 @@
             "id": 17349273,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T10:18:24Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-21T10:19:51Z",
+            "open_issues": 26,
             "owner": "igrigorik",
             "repo": "videospeed",
             "stars": 4485,
@@ -486,7 +486,7 @@
             "open_issues": 79,
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3833,
+            "stars": 3835,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -570,7 +570,7 @@
             "open_issues": 28,
             "owner": "dessant",
             "repo": "web-archives",
-            "stars": 1613,
+            "stars": 1614,
             "topics": [
               "archive",
               "browser-extension",
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T08:51:55.796Z",
+    "last_updated": "2026-11-22T08:54:19.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
