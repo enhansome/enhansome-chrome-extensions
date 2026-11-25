@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32539,
+            "stars": 32540,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -48,7 +48,7 @@
             "open_issues": 2,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23331,
+            "stars": 23332,
             "topics": [
               "browser-extension",
               "chrome",
@@ -80,7 +80,7 @@
             "open_issues": 265,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13429,
+            "stars": 13428,
             "topics": [
               "debug",
               "devtools",
@@ -107,7 +107,7 @@
             "open_issues": 246,
             "owner": "GoogleChromeLabs",
             "repo": "ProjectVisBug",
-            "stars": 5765,
+            "stars": 5764,
             "topics": [
               "debugging-tool",
               "design-tools",
@@ -303,7 +303,7 @@
             "open_issues": 52,
             "owner": "dessant",
             "repo": "buster",
-            "stars": 9408,
+            "stars": 9409,
             "topics": [
               "browser-extension",
               "captcha",
@@ -328,11 +328,11 @@
             "id": 12558645,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T00:29:02Z",
-            "open_issues": 88,
+            "last_commit": "2026-11-25T09:41:35Z",
+            "open_issues": 87,
             "owner": "violentmonkey",
             "repo": "violentmonkey",
-            "stars": 9231,
+            "stars": 9236,
             "topics": [
               "userscripts-support",
               "violentmonkey",
@@ -357,7 +357,7 @@
             "open_issues": 91,
             "owner": "openstyles",
             "repo": "stylus",
-            "stars": 7029,
+            "stars": 7032,
             "topics": [
               "chrome-extension",
               "firefox-extension",
@@ -383,10 +383,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-14T03:13:08Z",
-            "open_issues": 382,
+            "open_issues": 384,
             "owner": "brookhong",
             "repo": "Surfingkeys",
-            "stars": 6214,
+            "stars": 6217,
             "topics": [
               "chrome",
               "chromium",
@@ -465,7 +465,7 @@
             "open_issues": 27,
             "owner": "igrigorik",
             "repo": "videospeed",
-            "stars": 4486,
+            "stars": 4487,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -483,10 +483,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-06-27T11:49:36Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "dessant",
             "repo": "search-by-image",
-            "stars": 3836,
+            "stars": 3837,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -518,7 +518,7 @@
             "open_issues": 177,
             "owner": "einaregilsson",
             "repo": "Redirector",
-            "stars": 2110,
+            "stars": 2111,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:22.604Z"
@@ -539,7 +539,7 @@
             "open_issues": 171,
             "owner": "Cookie-AutoDelete",
             "repo": "Cookie-AutoDelete",
-            "stars": 2020,
+            "stars": 2021,
             "topics": [
               "chrome",
               "cookie",
@@ -570,7 +570,7 @@
             "open_issues": 28,
             "owner": "dessant",
             "repo": "web-archives",
-            "stars": 1614,
+            "stars": 1615,
             "topics": [
               "archive",
               "browser-extension",
@@ -705,8 +705,8 @@
             "id": 307575034,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T06:23:20Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-25T06:28:42Z",
+            "open_issues": 0,
             "owner": "lbragile",
             "repo": "TabMerger",
             "stars": 192,
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T11:40:18.666Z",
+    "last_updated": "2026-11-25T10:32:59.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Chrome Extensions",
@@ -775,7 +775,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-03T14:29:41Z",
-      "open_issues": 87,
+      "open_issues": 88,
       "owner": "gendotnew",
       "repo": "chrome-extensions",
       "stars": 482,
